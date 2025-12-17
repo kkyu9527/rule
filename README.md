@@ -5,6 +5,10 @@
 规则按需维护，只添加自己实际用到、确认有效的规则，  
 用不到的不会加，也不会为了看起来全而堆数量。
 
+https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
+
+上述链接没有的规则我才会添加
+
 ---
 
 ## 说明
