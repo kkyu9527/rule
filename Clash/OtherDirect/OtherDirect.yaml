@@ -1,0 +1,5 @@
+# NAME: GitHub
+# AUTHOR: kixyu
+
+payload:
+  - DOMAIN-SUFFIX,*.cn
