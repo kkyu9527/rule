@@ -1,5 +1,5 @@
 # 订阅链接
-https://raw.githubusercontent.com/kkyu9527/rule/refs/heads/main/Loon/OtherProxy/OtherProxy.list
+https://raw.githubusercontent.com/kkyu9527/rule/refs/heads/main/Clash/OtherProxy/OtherProxy.yaml
 
 # 说明
 一些杂项，暂不归类

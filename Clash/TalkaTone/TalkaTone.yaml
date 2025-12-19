@@ -1,0 +1,14 @@
+# NAME: GitHub
+# AUTHOR: kixyu
+
+payload:
+  - DOMAIN-SUFFIX,inmobicdn.net
+  - DOMAIN-SUFFIX,1rx.io
+  - DOMAIN-SUFFIX,mobilefuse.com
+  - DOMAIN-SUFFIX,a-iad3.1rx.io
+  - DOMAIN-SUFFIX,dotomi.com
+  - DOMAIN-SUFFIX,inhousedsp.com
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN,205.164.56.28
+  - DOMAIN-SUFFIX,tappx.com
+  - DOMAIN-KEYWORD,sdk-events.inner-active.mobi
