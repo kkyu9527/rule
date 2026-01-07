@@ -1,0 +1,6 @@
+# NAME: GitHub
+# AUTHOR: kixyu
+
+payload:
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
